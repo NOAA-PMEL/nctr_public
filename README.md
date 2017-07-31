@@ -26,7 +26,7 @@ like links: http://sift.pmel.noaa.gov/ComMIT
 ---
 images:
 
-(arenacovetimeseriesA.png)
+!(arenacovetimeseriesA.png)
 
 > Block quotes:
 > these work fairly well
